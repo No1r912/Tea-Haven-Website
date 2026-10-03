@@ -1,4 +1,4 @@
-# 🍵 Tea Haven Brunei
+# 🍵 Tea Haven
 
 A modern and responsive website for **Tea Haven**, a fictional tea and beverage brand concept based in Brunei. Designed to showcase a welcoming café experience through an elegant interface, smooth navigation, and a visually appealing layout.
 
